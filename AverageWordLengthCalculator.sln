@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33801.468
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AverageWordLengthCalculator", "AverageWordLengthCalculator.csproj", "{6B557EA8-3AA6-4B03-B28C-B60737993B45}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6B557EA8-3AA6-4B03-B28C-B60737993B45}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6B557EA8-3AA6-4B03-B28C-B60737993B45}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6B557EA8-3AA6-4B03-B28C-B60737993B45}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6B557EA8-3AA6-4B03-B28C-B60737993B45}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7DB26827-E590-4ED0-9434-6BA84A24FEF0}
+	EndGlobalSection
+EndGlobal
